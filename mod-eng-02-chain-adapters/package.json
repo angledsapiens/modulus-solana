@@ -1,0 +1,15 @@
+{
+  "name": "@modulus/mod-eng-02-chain-adapters",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "dependencies": {
+    "ethers": "^6.16.0"
+  }
+}

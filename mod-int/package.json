@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "@modulus/mod-eng-02-chain-adapters": "file:../mod-eng-02-chain-adapters"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3"
+  }
+}
